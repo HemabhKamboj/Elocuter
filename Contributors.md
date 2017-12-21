@@ -1,2 +1,2 @@
-- Dhruv Bhatnagar [Github: DhruvBhatnagar](https://github.com/dhruv10)
+
 - Hemabh Kamboj [Github: HemabhKamboj](https://github.com/HemabhKamboj)
