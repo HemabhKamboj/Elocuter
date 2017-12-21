@@ -9,13 +9,13 @@ The glove will be connected to smartphone through which the gestures are convert
 We are using MERN stack for developing the application platform. 
 Since, this is the development period we'll be using Arduino Uno to operate the sensors.
 
-##Languages Used:
+<b>Languages Used:</b>
 
 * C (For Arduino)
 * Javascript (TypeScript) For application interface
 
 
-##Hardware Components Used:  
+<b>Hardware Components Used:</b> 
 
 1. Flex sensors
 2. HC05 Wireless bluetoothRF
